@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.raghavau.vpmsdemo" version="2.1.0">
   <name>VPMS_Demo</name>
   <description>Online Visitor Pass Demo Application</description>
-  <author href="http://www.krishnapatnamport.com" email="epms_support@krishnapatnamport.com">Krishnapatnam Port Company LTD.</author>
+  <author href="http://www.techjeel.com" email="raghava.u@gmail.com">Krishnapatnam Port Company LTD.</author>
   <content src="VisitorRequest.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="portrait"/>
